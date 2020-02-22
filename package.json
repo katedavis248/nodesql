@@ -1,0 +1,23 @@
+{
+  "name": "nodesql",
+  "version": "1.0.0",
+  "description": "creating an Amazon-like storefront with the MySQL skills we learned in this unit",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katedavis248/nodesql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katedavis248/nodesql/issues"
+  },
+  "homepage": "https://github.com/katedavis248/nodesql#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
+  }
+}
